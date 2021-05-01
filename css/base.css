@@ -1,0 +1,57 @@
+*{margin: 0; padding: 0;}
+
+body{
+	background-color: #505050;
+}
+
+nav{
+	margin-top: 10px;
+	}
+
+nav ul{
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;
+	font-size: 1.7em;
+	background-color: #FE143E;
+	
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #FFF;
+	display: block;
+	padding: 0.3em 0.7em;
+}
+
+nav ul li a:hover{
+	background-color: #282828; 
+}
+
+
+
+header{
+	text-align: center;
+	font-size: 2.2em;
+	font-family: Cracked Johnnie;
+	color: #FF002E;
+}
+
+h1{
+	font-size: 2.4em;
+	color: #FFF;
+	text-align: center;
+}
+
+h2{
+	font-size: 1.8em;
+	color: rgb(255, 185, 0);
+	text-align: center;
+}
+
+hr{
+	width: 70%;
+	display: inline-block;
+}
